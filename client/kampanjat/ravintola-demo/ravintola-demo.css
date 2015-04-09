@@ -1,0 +1,11 @@
+.backgroundkuvaravintolademo {
+    padding-top: 20px;
+    background: url("bigstock_people_at_a_restaurant_6394452.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}
+

@@ -1,0 +1,60 @@
+/* CSS declarations go here */
+
+.keskitys {
+text-align: center;
+}
+
+.background {
+    padding-top: 10px;
+    background-color: #f9f9f9;
+    border-radius: 25px;
+    padding-bottom: 10px;
+
+}
+.backgroundkuva {
+    padding-top: 20px;
+    background: url("jokeroo.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}
+
+.numero {
+    margin-top: -17px;
+}
+
+.osoite {
+    font-size: 12px;
+}
+
+.navcta {
+    margin-top: 9px;
+}
+
+.esimerkkikuvat {
+    border: 1px black dashed;
+    padding: 2px 2px 2px 2px;
+}
+
+/* enable absolute positioning */
+.inner-addon {
+    position: relative;
+}
+
+/* style icon */
+.inner-addon .fa {
+    position: absolute;
+    padding: 5px 10px 10px 10px;
+    pointer-events: none;
+}
+
+/* align icon */
+.left-addon .fa  { left:  0px;}
+.right-addon .fa { right: 0px;}
+
+/* add padding  */
+.left-addon input  { padding-left:  30px; }
+.right-addon input { padding-right: 30px; }

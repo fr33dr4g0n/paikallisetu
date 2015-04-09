@@ -1,0 +1,11 @@
+
+.backgroundkuvakampaamodemo {
+    padding-top: 20px;
+    background: url("hair-cut-scissors.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}

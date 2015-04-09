@@ -1,0 +1,25 @@
+.backgroundTengsMansion {
+    padding-top: 20px;
+    background: url("tengsmansion.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}
+
+@media(max-width:767px){
+    .backgroundTengsMansion {
+        padding-top: 5px !important;
+        background: none !important;
+        background-color: #d7d7d7 !important;
+    }
+
+}
+@media(min-width:768px){
+
+
+}
+@media(min-width:992px){}
+@media(min-width:1200px){}

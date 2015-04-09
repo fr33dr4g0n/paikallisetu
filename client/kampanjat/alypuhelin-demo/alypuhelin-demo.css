@@ -1,0 +1,10 @@
+.backgroundkuvaalypuhelindemo {
+    padding-top: 20px;
+    background: url("iphone.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}

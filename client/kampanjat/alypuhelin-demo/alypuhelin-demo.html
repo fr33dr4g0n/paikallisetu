@@ -1,0 +1,50 @@
+<template name="alypuhelindemo">
+    <div class="container-fluid backgroundkuvaalypuhelindemo">
+        <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-xs 12 background">
+            <h2 class="keskitys">iphone tai ipad lasin vaihto hintaan 50€ <b>(arvo 100€)</b> </h2>
+            <h4 class="keskitys">Etukuponki lähetetään tekstiviestillä puhelimeesi. Etu on voimassa 01.05.2015 asti.</h4>
+            <br>
+            <p class="lead keskitys">Syötä numerosi +358 muodossa:</p>
+            <form class="form keskitys">
+                <div class="row centered">
+                    <div class="col-xs-8 col-xs-offset-2 numero">
+                        <div class="inner-addon left-addon">
+                            <i class="fa fa-mobile fa-2x"></i>
+                            <input type="text" name="recepient" class="form-control"/>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="centered">
+                    <br>
+                    <input type="submit" value="Lähetä Etu" class="btn btn-lg btn-danger">
+                </div>
+            </form>
+            <br>
+            <div class="keskitys">
+                          <span class="osoite"><i class="fa fa-map-marker"></i>
+Helsinki, Punavuorenkatu 23, 00150 © Demo Oy
+</span>
+            </div>
+
+
+        </div>
+    </div>
+</template>
+
+<template name="alypuhelin_thankyou">
+    <div class="container-fluid backgroundkuvaalypuhelindemo">
+        <div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-xs 12 background">
+            <h3 class="keskitys">Etusi on lähetetty numeroon <b>{{numero}}</b></h3>
+            <h4 class="keskitys">Muista lunastaa etu 01.05.2015 mennessä.</h4>
+            <br>
+            <div class="keskitys">
+                          <span class="osoite"><i class="fa fa-map-marker"></i>
+Helsinki, Punavuorenkatu 23, 00150 © Demo Oy
+</span>
+            </div>
+        </div>
+    </div>
+</template>

@@ -1,0 +1,10 @@
+.backgroundkuvasuutaridemo {
+    padding-top: 20px;
+    background: url("suutari.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}

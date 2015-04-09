@@ -1,0 +1,113 @@
+.navbarpadding {
+    padding-top: 80px;
+}
+.padbot100 {
+    padding-top: 40px;
+    padding-bottom: 100px;
+}
+.greylead {
+   color: #404040  ;
+}
+.margin50 {
+    margin-top: 90px;
+}
+
+.navcta {
+    margin-top: 9px;
+    margin-bottom: 9px;
+}
+.number {
+    border: 2px black solid;
+    border-radius: 50px;
+}
+
+.navbar > .container .navbar-brand, .navbar > .container-fluid .navbar-brand {
+    margin-left: -15px;
+    padding-top: 20px;
+}
+.jumbotron1 {
+    margin-top: 110px !important;
+    padding-top: 75px;
+    padding-bottom: 140px;
+    margin-bottom: 50px;
+}
+.cta {
+    padding: 30px 0 30px 0;
+}
+.pad50 {
+    padding-top: 50px;
+}
+.pad100 {
+    padding-top: 100px;
+}
+.pad80 {
+    padding-top: 30px;
+}
+
+
+.divider {
+padding: 15px 15px 15px 15px;
+}
+
+.panel
+{
+    text-align: center;
+}
+.panel:hover { box-shadow: 0 1px 5px rgba(0, 0, 0, 0.4), 0 1px 5px rgba(130, 130, 130, 0.35); }
+.panel-body
+{
+    padding: 0px;
+    text-align: center;
+}
+
+.the-price
+{
+    background-color: rgba(220,220,220,.17);
+    box-shadow: 0 1px 0 #dcdcdc, inset 0 1px 0 #fff;
+    padding: 20px;
+    margin: 0;
+}
+
+.the-price h1
+{
+    line-height: 1em;
+    padding: 0;
+    margin: 0;
+}
+
+.subscript
+{
+    font-size: 25px;
+}
+
+.greybg {
+    background-color: rgba(220,220,220,.17);
+
+}
+
+.pad10 {
+    padding: 10px 10px 10px 10px;
+}
+
+footer {
+    padding-top: 80px;
+}
+
+.navbar-inverse {
+    background-color: #fff;
+    border-color: #d7d7d7 !important;
+}
+.navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
+    color: #5e5e5e !important;
+    background-color: #fff !important;
+}
+.navbar-inverse .navbar-brand {
+    color: #5e5e5e;
+}
+.navbar-inverse .navbar-brand:hover {
+    color:  #000;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #5e5e5e;
+}

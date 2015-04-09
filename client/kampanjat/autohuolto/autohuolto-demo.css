@@ -1,0 +1,10 @@
+.backgroundkuvaautohuolto {
+    padding-top: 20px;
+    background: url("autohuolto.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100vh;
+
+}
